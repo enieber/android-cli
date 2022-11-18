@@ -25,6 +25,10 @@ work to run android withoult IDE
 
 - concact commads to recompile and re-open app: `gradle build && gradle installDebug && adb shell am start -n $(./droid.sh)
 
+## Experiments
+
+- [acli](https://github.com/enieber/acli) - android-cli tools to help develop
+
 ## License 
 
 MIT
